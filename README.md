@@ -46,6 +46,7 @@ Random Forest Regressor : Algorithme d'ensemble basé sur des arbres de décisio
 Phase 4 : Évaluation des Performances
 
 L'évaluation finale est réalisée sur l'ensemble de test en utilisant la métrique RMSE (Root Mean Square Error). Cette métrique pénalise fortement les erreurs de prédiction importantes, ce qui est crucial pour la sécurité aéronautique.
+
 4. Résultats et AnalyseLes
 
-résultats obtenus mettent en évidence la supériorité du modèle non-linéaire :ModèleRMSEPrécision relativeRégression Linéaire30.96MoyenneRandom Forest Regressor26.24Élevée
+Le modèle Random Forest Regressor s'est avéré être la solution la plus performante pour prédire la durée de vie restante des moteurs, affichant un score RMSE de 26,24, contre 30,96 pour la régression linéaire. Cette amélioration significative de la précision démontre que les algorithmes basés sur des arbres de décision capturent mieux les corrélations non-linéaires entre les capteurs lors de la phase de dégradation. Ces résultats valident l'efficacité de l'intelligence artificielle pour transformer des données brutes en indicateurs de maintenance fiables, permettant ainsi d'optimiser la sécurité aéronautique tout en réduisant les interventions inutiles.
