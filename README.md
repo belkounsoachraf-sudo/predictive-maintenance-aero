@@ -1,4 +1,4 @@
-# MaintenancePrédictive Aéronautique par IA
+# Maintenance Prédictive Aéronautique par IA
 
 Ce dépôt contient l'implémentation d'une solution d'intelligence artificielle dédiée à l'estimation de la durée de vie restante (Remaining Useful Life - RUL) de moteurs d'avions. Ce travail s'inscrit dans une démarche de maintenance conditionnelle visant à réduire les coûts opérationnels et à accroître la sécurité.
 
