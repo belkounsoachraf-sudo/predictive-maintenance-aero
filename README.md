@@ -16,8 +16,11 @@ Vingt-et-un capteurs mesurant diverses données physiques (température, pressio
 Le projet a été développé en Python sur Google Colab. Les librairies principales utilisées sont :
 
 Pandas : Pour le nettoyage et la structuration des données temporelles.
+
 NumPy : Pour la manipulation des matrices et les calculs statistiques.
+
 Matplotlib & Seaborn : Pour la visualisation des courbes de dégradation et l'analyse de corrélation.
+
 Scikit-Learn : Pour le prétraitement (Scaling) et l'implémentation des algorithmes d'apprentissage automatique.
 
 # 3. Pipeline de Réalisation
